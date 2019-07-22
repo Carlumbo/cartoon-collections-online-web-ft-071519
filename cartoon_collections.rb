@@ -21,3 +21,7 @@ def find_the_cheese(array)
     cheese_types.include?(cheese)
   end 
 end 
+<<<<<<< HEAD
+=======
+end
+>>>>>>> 00d94e491d24930831947b4908d2a1f40db98818
